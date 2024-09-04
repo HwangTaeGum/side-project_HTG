@@ -1,1 +1,5 @@
 *.7z
+README.md
+merge.bat
+pull_files.ps1
+push_files.ps1
