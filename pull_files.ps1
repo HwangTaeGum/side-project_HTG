@@ -1,5 +1,5 @@
 $RemoteRepo = "https://github.com/HwangTaeGum/side-project_HTG.git"
-$LocalDir = "C:\Side_Project\7z"
+$LocalDir = "C:\Side_Project\7z" #맞는 경로로 수정
 $Branch = "master"
 
 
