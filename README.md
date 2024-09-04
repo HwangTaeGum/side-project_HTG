@@ -1,7 +1,7 @@
 - 설치 
 1. 7z를 설치한다 (https://www.7-zip.org/)
 2. C드라이브 안에 Side_Project 폴더를 만든다 ("C:\Side_Project" 경로에 생성)
-3. pull_files.ps1을 PowerShell을 이용해 data.zip.xxx 파일을 다운 받는다
+3. pull_files.ps1을 PowerShell을 이용해 data.zip.xxx 파일을 다운 받는다 (.\pull_files.ps1)
 4. merge.bat을 이용해 분리된 7z 파일을 병합한다
 5. 병합한 data.zip의 압축을 바탕화면의 데이터 폴더(없을시 생성)에 푼다
 
